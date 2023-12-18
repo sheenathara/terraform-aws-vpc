@@ -1,6 +1,6 @@
 # VPC with Outpost Subnet
 
-Configuration in this directory creates a VPC with public, private, and private outpost subnets.
+Configuration in this directory creates a VPC with public, private, and private outpost subnets
 
 This configuration uses data-source to find an available Outpost by name. Change it according to your needs in order to run this example.
 
