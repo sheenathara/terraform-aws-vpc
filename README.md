@@ -1,4 +1,4 @@
-# AWS VPC Terraform module
+# AWS VPC Terraform module repo
 
 Terraform module which creates VPC resources on AWS.
 
